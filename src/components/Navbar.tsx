@@ -54,7 +54,7 @@ const Navbar = () => {
             href="/signup"
           >
             <Button
-              variant="outline"
+              variant="secondary"
               className='text-white bg-secondary-600 hover:bg-white hover:text-primary-700'
             >
               Sign Up
