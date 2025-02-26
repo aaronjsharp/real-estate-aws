@@ -29,7 +29,7 @@ const Navbar = () => {
               />
               <div className='text-xl font-bold'>
                 RENT
-                <span className='text-secondary-500 font-semibold hover:!text-primary-300'>
+                <span className='text-secondary-500 font-bold hover:!text-primary-300'>
                   IFUL
                 </span>
               </div>
